@@ -69,9 +69,9 @@ On the back end, the app utilizes Passport for its user authentication. When ini
 
 ## People
 
-| <a href="http://fvcproductions.com" target="_blank">Brendan Ryan</a> | <a href="http://fvcproductions.com" target="_blank">Anna Filatova</a> | <a href="http://fvcproductions.com" target="_blank">Pavlos Karalis</a> |
+| <a href="http://fvcproductions.com" target="_blank">Brendan Ryan</a> | <a href="https://github.com/1anya1" target="_blank">Anna Filatova</a> | <a href="http://fvcproductions.com" target="_blank">Pavlos Karalis</a> |
 | :---: |:---:| :---:|
-| [![Brendan Ryan](https://git.generalassemb.ly/3rendan.png?s=200)](http://brendanryan.space)    | [![Anns Filatova](https://github.com/1anya1.png?s=200)](URL)  | [![Pavlos Karalis](https://github.com/pavloskaralis.png?s=200)](URL)  |
+| [![Brendan Ryan](https://git.generalassemb.ly/3rendan.png?s=200)](http://brendanryan.space)    | [![Anns Filatova](https://github.com/1anya1.png?s=200)](https://github.com/1anya1)  | [![Pavlos Karalis](https://github.com/pavloskaralis.png?s=200)](URL)  |
 | <a href="http://github.com/3rendan" target="_blank">`github.com/3rendan`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/pavloskaralis`</a> |
 
 - You can just grab their GitHub profile image URL
